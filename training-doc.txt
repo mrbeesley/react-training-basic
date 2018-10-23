@@ -1,0 +1,12 @@
+// REACT terminology
+
+function component
+ - is as simple component that takes in props and executes a function
+
+class component
+ - similar to function but additional internal state
+
+ state vs props
+  - state can change props cannot
+
+  
